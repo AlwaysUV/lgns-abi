@@ -15,4 +15,5 @@ This repository contains the ABI (Application Binary Interface) for the LGNS sma
 ## Turbine 
 0x07Ff4e06865de4934409Aa6eCea503b08Cc1C78d 
 
-
+## sLGNS Token
+0x99a57E6C8558BC6689f894e068733ADf83C19725
